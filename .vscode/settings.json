@@ -1,0 +1,19 @@
+{
+  "cSpell.words": [
+    "curdate",
+    "Doner",
+    "Gujrat",
+    "Haryana",
+    "Jammu",
+    "lable",
+    "pamplates",
+    "Pincode",
+    "postalcode"
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": false,
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  }
+}
